@@ -1,0 +1,12 @@
+# Local Python and editor artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+# Local runtime/environment secrets
+.env
+.env.*
+!*.env.example
